@@ -9,7 +9,7 @@ You can learn more about me on my GitHub.io and LinkedIn pages. I would be delig
 ## AWS Certification
 <p align="center">
   <a href="https://www.credly.com/badges/4f348105-d466-4b08-9fb4-f2806ef7baa7/linked_in_profile">
-    <img src="images/images/aws-certified-cloud-practitioner.png" alt="AWS Logo" height="80">
+    <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Logo" height="80">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ You can learn more about me on my GitHub.io and LinkedIn pages. I would be delig
 ## Mentor at RedRover School
 <p align="center">
   <a href="https://www.linkedin.com/company/redrover-school/posts/?feedView=all">
-    <img src="images/school-logo.png" alt="RedRover School Logo" height="80">
+    <img src="images/school-logo.jpeg" alt="RedRover School Logo" height="80">
   </a>
 </p>
 <!--
