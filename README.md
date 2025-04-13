@@ -1,4 +1,4 @@
-<image src="image/banner.jpg" alt="PORTFOLIO">
+<image src="image/logo.png" alt="PORTFOLIO">
 
 # Hi everyone! I'm Svetlana, a Software QA Engineer/SDET with experience in WDIO,  Playwright, and Cypress with JavaScript.
 
