@@ -16,7 +16,7 @@ You can learn more about me on my GitHub.io and LinkedIn pages. I would be delig
 ### Codewars Profile
 <p align="center">
   <a href="https://www.codewars.com/users/Svetlana%20-G">
-    <img src="https://www.codewars.com/users/Svetlana%20-G/badges/large" alt="Codewars Badge" height="100">
+    <img src="https://www.codewars.com/users/Svetlana%20-G/badges/large" alt="Codewars Badge" height="80" width="auto">
   </a>
 </p>
 
