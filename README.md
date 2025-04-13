@@ -1,6 +1,6 @@
 <img src="images/logo.png" alt="PORTFOLIO" >
 
-# Hi everyone! I'm Svetlana, a Software QA Engineer/SDET with experience in WDIO,  Playwright, and Cypress with JavaScript.
+### Hi there! I'm Svetlana — a passionate SDET with expertise in JavaScript-based automation using Playwright, Cypress, and WebDriverIO. I’ve led privacy-focused code audits (including Metamate AI training), tested complex integrations with retail hardware, and built CI/CD-ready frameworks from scratch. AWS Certified.
 
 You can learn more about me on my GitHub.io and LinkedIn pages. I would be delighted to connect with you, share experiences and knowledge, and support your professional growth and development.
 
