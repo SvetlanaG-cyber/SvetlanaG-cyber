@@ -9,7 +9,7 @@ You can learn more about me on my GitHub.io and LinkedIn pages. I would be delig
 ## AWS Certification
 <p align="center">
   <a href="https://www.credly.com/badges/4f348105-d466-4b08-9fb4-f2806ef7baa7/linked_in_profile">
-    <img src="images/aws-logo.png" alt="AWS Logo" height="80">
+    <img src="images/images/aws-certified-cloud-practitioner.png" alt="AWS Logo" height="80">
   </a>
 </p>
 
